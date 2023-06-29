@@ -13,11 +13,11 @@ This is a test application created with Node.js and MongoDB. It demonstrates a s
 1. Create a `.env` file in the project's root directory.
 2. Set the necessary environment variables in the `.env` file. For example:
 
-`
-PORT=3000
-MONGODB_URI=mongodb://localhost/test
-JWT_SECRET=mysecretkey
-`
+
+`PORT=3000`
+`MONGODB_URI=mongodb://localhost/test`
+`JWT_SECRET=mysecretkey`
+
 
 ## Usage
 
